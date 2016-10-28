@@ -1,0 +1,15 @@
+{
+  "name": "mercadopago_php",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+    "mongolab"
+  ],
+  "buildpacks": [
+
+  ]
+}
